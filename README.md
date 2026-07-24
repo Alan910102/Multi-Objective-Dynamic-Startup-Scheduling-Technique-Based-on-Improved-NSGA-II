@@ -43,7 +43,8 @@ $$\text{Chromosome} = [\text{Gene}_1, \text{Gene}_2, \dots, \text{Gene}_N]$$
 
 優化流程包含標準 GA 演算法之改進版：
 
-```text
+```
+text
 [Start]
    │
 [Population Initialization]
@@ -58,7 +59,7 @@ $$\text{Chromosome} = [\text{Gene}_1, \text{Gene}_2, \dots, \text{Gene}_N]$$
    │ (Yes)
    ▼
 [Output Pareto Population]
-
+```
 ---
 
 ## 📊 Experimental Results
@@ -91,4 +92,5 @@ $$\text{Chromosome} = [\text{Gene}_1, \text{Gene}_2, \dots, \text{Gene}_N]$$
 ├── main.py                 # 主程式進入點
 ├── requirements.txt        # 依賴套件清單
 └── README.md
+```
 ---
