@@ -73,6 +73,7 @@ text
 * **Compromise Solution (Best Trade-off)**: 在時間與峰值之間取得最佳平衡點[cite: 1]。
 
 ![3D Pareto Front](docs/pareto_3d.png)
+[3D viewer](https://alan910102.github.io/power-smooth-time-pareto/)
 
 ### 2. Total Power Profile Comparison (W)
 對比優化前後的用電負載曲線，成功將瞬間 Peak 壓降，並平滑化電力需求[cite: 1]：
