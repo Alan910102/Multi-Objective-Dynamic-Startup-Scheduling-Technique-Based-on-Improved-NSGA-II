@@ -69,14 +69,14 @@ text
 ### 1. 3D Pareto Front (S-P-T View)
 3D Pareto 圖（Smoothness-Power-Time）展示了三個目標之間的 Trade-off 關係：
 * **Time Worst Individual**: 完成時間最長，但換取了較低的 Peak 負載。
-* **Power Worst Individual**: 峰值最高，但整體排程最快[cite: 1]。
-* **Compromise Solution (Best Trade-off)**: 在時間與峰值之間取得最佳平衡點[cite: 1]。
+* **Power Worst Individual**: 峰值最高，但整體排程最快。
+* **Compromise Solution (Best Trade-off)**: 在時間與峰值之間取得最佳平衡點。
 
 ![3D Pareto Front](docs/pareto_3d.png)
 [3D viewer](https://alan910102.github.io/power-smooth-time-pareto/)
 
 ### 2. Total Power Profile Comparison (W)
-對比優化前後的用電負載曲線，成功將瞬間 Peak 壓降，並平滑化電力需求[cite: 1]：
+對比優化前後的用電負載曲線，成功將瞬間 Peak 壓降，並平滑化電力需求：
 
 ![Power Profile Comparison](docs/power_profile.png)
 
